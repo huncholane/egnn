@@ -50,8 +50,7 @@ const TokenDisplay = () => {
           </div>
 
           <div className="text-center text-gray-600 italic">
-            "Because sometimes the best solution comes from unexpected
-            places..."
+            Because sometimes the best solution comes from unexpected places...
           </div>
         </div>
       </div>
